@@ -5,14 +5,28 @@ I am a Computer Science Junior who is the master of __Brute Force Algorithms__ a
 ---
 
 ## Skills
-Languages : Python, SQL
-Libraries / Frameworks : Selenium, Flask, sci-kit learn, LangChain, NumPy, Pandas, Ollama
+__Languages__ : 
+
+- Python
+- SQL
+
+<br>
+
+__Libraries / Frameworks__ : 
+
+- Selenium
+- Flask
+- scikit-learn
+- LangChain
+- NumPy
+- Pandas
+- Ollama
 
 ---
 
 ## Contact
-Email : ryanhuynh1@gmail.com
-LinkedIn : https://www.linkedin.com/in/ryan-huynh-/
+__Email__ : ryanhuynh1@gmail.com
+__LinkedIn__ : https://www.linkedin.com/in/ryan-huynh-/
 
 <!--
 **consectatio/consectatio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
