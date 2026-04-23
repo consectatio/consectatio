@@ -33,6 +33,9 @@ __Libraries / Frameworks__ :
 
 ## Contact
 __Email__ : ryanhuynh1@gmail.com
+
+<br>
+
 __LinkedIn__ : https://www.linkedin.com/in/ryan-huynh-/
 
 <!--
