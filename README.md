@@ -17,8 +17,6 @@ __Languages__ :
 - TypeScript/ / Javascript
 - Docker
 
-<br>
-
 __Libraries / Frameworks__ : 
 
 - Selenium
@@ -33,8 +31,6 @@ __Libraries / Frameworks__ :
 
 ## Contact
 __Email__ : ryanhuynh1@gmail.com
-
-<br>
 
 __LinkedIn__ : https://www.linkedin.com/in/ryan-huynh-/
 
