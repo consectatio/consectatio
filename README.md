@@ -10,6 +10,13 @@ __Languages__ :
 - Python
 - SQL
 
+**Familiar With:** 
+
+- Java
+- C++
+- TypeScript/ / Javascript
+- Docker
+
 <br>
 
 __Libraries / Frameworks__ : 
